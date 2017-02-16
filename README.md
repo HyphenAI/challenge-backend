@@ -31,14 +31,14 @@ With that system, we can go from 6 requests per minute to 2-3 requests per minut
 
 #Tests#
 
-To test the system, a server and 2 clients talking to each others can be used.
-Initial States:
-Client 1 and Client 2 listen to server
-Working States:
-Client 1 send message to Client 2
-Client 1 wait for answer from Client 2
-Client 2 receives message, reply, and listen to server(answer from Client 1)
-Client 1 receives message from Client 2, reply and listen to server(answer from Client 2)
+To test the system, a server and 2 clients talking to each others can be used.  
+Initial States:  
+Client 1 and Client 2 listen to server  
+Working States:  
+Client 1 send message to Client 2  
+Client 1 wait for answer from Client 2  
+Client 2 receives message, reply, and listen to server(answer from Client 1)  
+Client 1 receives message from Client 2, reply and listen to server(answer from Client 2)  
 And so on and so on
 
 
