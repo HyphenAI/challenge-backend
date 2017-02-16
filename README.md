@@ -22,11 +22,11 @@ With that system, we can go from 6 requests per minute to 2-3 requests per minut
 
 #Tools#
 
-	##Server##
+	Server
 	-  Python
 	-  Django
 	-  Redis [Optional](1)
-	##Client##
+	Client
 	-  HTML/Javascript
 
 #Tests#
