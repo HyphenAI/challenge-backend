@@ -22,11 +22,11 @@ With that system, we can go from 6 requests per minute to 2-3 requests per minut
 
 #Tools#
 
-	*Server*
+	##Server##
 	-  Python
 	-  Django
 	-  Redis [Optional](1)
-	*Client*
+	##Client##
 	-  HTML/Javascript
 
 #Tests#
@@ -43,5 +43,5 @@ And so on and so on
 
 
 #Resources#
-[Long Polling](https://www.pubnub.com/blog/2014-12-01-http-long-polling/)
+[Long Polling](https://www.pubnub.com/blog/2014-12-01-http-long-polling/)  
 (1) Redis can be used for its Sub/Pub feature.
